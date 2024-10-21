@@ -18,6 +18,16 @@ body{
   z-index: -1;
 }
 
+.circle-bottom {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 70%;
+  height: 160%;
+  transform: translate(29%, 63%);
+  z-index: -1;
+}
+
 .container{
     display: flex;
     flex-direction: column;
