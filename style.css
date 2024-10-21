@@ -43,7 +43,7 @@ body{
 .image-container{
     margin-top: px;
    overflow: hidden;
-   border-radius: 15px 15px 0 0; /* Top left and top right corners rounded */
+   border-radius: 15px 15px 0 0; 
 
 }
 .image {
@@ -71,7 +71,7 @@ body{
     width: 100%;
     border: none;
     border-top: 1px solid hsl(0, 0%, 59%);
-    opacity: 0.3; /* Reduces opacity */
+    opacity: 0.3; 
 }
 
 
